@@ -24,5 +24,4 @@ CC.convertCurrency(fromCurrency,toCurrency)
 
 # Issues
 
-If any issues are found, they can be reported [here] 
-(https://github.com/pratikb0501/convertCurrency/issues/).
+If any issues are found, they can be reported [here](https://github.com/pratikb0501/convertCurrency/issues)
