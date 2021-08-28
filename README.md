@@ -4,12 +4,12 @@ Package to convert currency using currency code
 
 # Installation
 
-`npm i convertCurrency`
+`npm i convertcurrency-p`
 
 Then...
 
 ```
-const CC = require ('convertCurrency-p')
+const CC = require ('convertcurrency-p')
 
 CC.convertCurrency(fromCurrency,toCurrency,amount)
 ```
@@ -19,7 +19,7 @@ CC.convertCurrency(fromCurrency,toCurrency,amount)
 ConvertCurrency supports an option to just get Price per Unit
 
 ```
-convertCurrency(fromCurrency,toCurrency)
+CC.convertCurrency(fromCurrency,toCurrency)
 ```
 
 # Issues
