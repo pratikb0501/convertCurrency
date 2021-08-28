@@ -21,3 +21,11 @@ ConvertCurrency supports an option to just get Price per Unit
 ```
 convertCurrency(fromCurrency,toCurrency)
 ```
+
+# Issues
+
+If any issues are found, they can be reported [here] (https://github.com/pratikb0501/convertCurrency/issues).
+
+# License
+
+This project is licensed under the MIT license.
