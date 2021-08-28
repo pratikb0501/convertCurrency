@@ -6,12 +6,14 @@ Package to convert currency using currency code
 
 `npm i convertcurrency-p`
 
-Then...
+# Usage
 
 ```
 const CC = require ('convertcurrency-p')
 
 CC.convertCurrency(fromCurrency,toCurrency,amount)
+.then( () => //response)
+.catch(() => //error)
 ```
 
 # Options
