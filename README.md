@@ -4,7 +4,7 @@ Package to convert currency using currency code
 
 # Installation
 
-`npm i convertCurrency`
+`npm i convertcurrency-p`
 
 Then...
 
