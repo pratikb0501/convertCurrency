@@ -9,9 +9,9 @@ Package to convert currency using currency code
 Then...
 
 ```
-const convertCurrency = require 'convertCurrency
+const CC = require ('convertCurrency-p')
 
-convertCurrency(fromCurrency,toCurrency,amount)
+CC.convertCurrency(fromCurrency,toCurrency,amount)
 ```
 
 # Options
