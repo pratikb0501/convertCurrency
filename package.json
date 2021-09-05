@@ -1,6 +1,6 @@
 {
   "name": "convertcurrency-p",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Convert currency using currency codes",
   "main": "index.js",
   "dependencies": {
