@@ -14,6 +14,16 @@ const CC = require ('convertcurrency-p')
 CC.convertCurrency(fromCurrency,toCurrency,amount)
 .then( () => //response)
 .catch(() => //error)
+
+```
+
+# Example
+
+```
+CC.convertCurrenct("USD","INR",100)
+.then( () => //response)
+.catch(() => //error)
+
 ```
 
 # Options
